@@ -1,2 +1,3 @@
 # my-website
-はじめてのウェブサイト
+はじめてのウェブサイト  
+https://nakamurayue-tech.github.io/my-website/
